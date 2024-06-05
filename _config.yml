@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://broccoli-jyikll.onrender.com"
+baseurl: "/broccoli-jyikll"
+url: "https://aioxx.github.io"
 title: "Sylhare's blog"
 description: "Well, here it is"
 
